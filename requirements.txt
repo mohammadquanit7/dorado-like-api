@@ -6,5 +6,4 @@ aiohttp
 googleapis-common-protos
 pycryptodome
 protobuf
-Werkzeug
-threading
+Werkzeug 
